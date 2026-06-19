@@ -1,0 +1,27 @@
+{
+  "name": "backend-suporte-anime-house",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViselBrx/Backend-Suporte-Anime-House.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ViselBrx/Backend-Suporte-Anime-House/issues"
+  },
+  "homepage": "https://github.com/ViselBrx/Backend-Suporte-Anime-House#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.108.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
